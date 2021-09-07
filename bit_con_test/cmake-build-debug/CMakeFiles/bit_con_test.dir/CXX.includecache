@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fangruiqian/old_data/Desktop/inke/inke_environment/src/github.com/leetcode_code/bit_con_test/main.cpp
+iostream
+-
+

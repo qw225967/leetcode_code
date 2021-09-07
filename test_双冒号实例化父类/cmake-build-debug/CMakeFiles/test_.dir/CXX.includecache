@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fangruiqian/old_data/Desktop/inke/inke_environment/src/github.com/leetcode_code/test_双冒号实例化父类/father.h
+iostream
+-
+
+/Users/fangruiqian/old_data/Desktop/inke/inke_environment/src/github.com/leetcode_code/test_双冒号实例化父类/main.cpp
+iostream
+-
+father.h
+/Users/fangruiqian/old_data/Desktop/inke/inke_environment/src/github.com/leetcode_code/test_双冒号实例化父类/father.h
+

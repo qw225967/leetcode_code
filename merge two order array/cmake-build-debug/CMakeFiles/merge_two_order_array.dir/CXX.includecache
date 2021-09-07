@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fangruiqian/old_data/Desktop/inke/inke_environment/src/github.com/leetcode_code/merge two order array/main.cpp
+iostream
+-
+vector
+-
+
