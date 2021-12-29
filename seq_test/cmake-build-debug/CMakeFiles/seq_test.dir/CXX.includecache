@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fangruiqian/old_data/Desktop/inke/inke_environment/src/github.com/leetcode_code/seq_test/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+
