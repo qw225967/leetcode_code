@@ -1,0 +1,3 @@
+/Users/admin/go/src/github.com/leetcode_code/STL_list_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/admin/go/src/github.com/leetcode_code/STL_list_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/admin/go/src/github.com/leetcode_code/STL_list_test/cmake-build-debug/CMakeFiles/STL_list_test.dir
